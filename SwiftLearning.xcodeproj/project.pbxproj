@@ -11,6 +11,7 @@
 		AC7B622D27587AE7002A3756 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7B622C27587AE7002A3756 /* ContentView.swift */; };
 		AC7B622F27587AE8002A3756 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC7B622E27587AE8002A3756 /* Assets.xcassets */; };
 		AC7B623227587AE8002A3756 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC7B623127587AE8002A3756 /* Preview Assets.xcassets */; };
+		AC7B623927587B3C002A3756 /* LongPressGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7B623827587B3C002A3756 /* LongPressGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AC7B622C27587AE7002A3756 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC7B622E27587AE8002A3756 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC7B623127587AE8002A3756 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AC7B623827587B3C002A3756 /* LongPressGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AC7B622A27587AE7002A3756 /* SwiftLearningApp.swift */,
 				AC7B622C27587AE7002A3756 /* ContentView.swift */,
+				AC7B623827587B3C002A3756 /* LongPressGestureView.swift */,
 				AC7B622E27587AE8002A3756 /* Assets.xcassets */,
 				AC7B623027587AE8002A3756 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC7B622D27587AE7002A3756 /* ContentView.swift in Sources */,
+				AC7B623927587B3C002A3756 /* LongPressGestureView.swift in Sources */,
 				AC7B622B27587AE7002A3756 /* SwiftLearningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
