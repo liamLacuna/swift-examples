@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC288DEC279128C200172E80 /* MagnificationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC288DEB279128C200172E80 /* MagnificationGestureView.swift */; };
 		AC7B622B27587AE7002A3756 /* SwiftLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7B622A27587AE7002A3756 /* SwiftLearningApp.swift */; };
 		AC7B622D27587AE7002A3756 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7B622C27587AE7002A3756 /* ContentView.swift */; };
 		AC7B622F27587AE8002A3756 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC7B622E27587AE8002A3756 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC288DEB279128C200172E80 /* MagnificationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureView.swift; sourceTree = "<group>"; };
 		AC7B622727587AE7002A3756 /* SwiftLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC7B622A27587AE7002A3756 /* SwiftLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearningApp.swift; sourceTree = "<group>"; };
 		AC7B622C27587AE7002A3756 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				AC7B623827587B3C002A3756 /* LongPressGestureView.swift */,
 				AC7B622E27587AE8002A3756 /* Assets.xcassets */,
 				AC7B623027587AE8002A3756 /* Preview Content */,
+				AC288DEB279128C200172E80 /* MagnificationGestureView.swift */,
 			);
 			path = SwiftLearning;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC288DEC279128C200172E80 /* MagnificationGestureView.swift in Sources */,
 				AC7B622D27587AE7002A3756 /* ContentView.swift in Sources */,
 				AC7B623927587B3C002A3756 /* LongPressGestureView.swift in Sources */,
 				AC7B622B27587AE7002A3756 /* SwiftLearningApp.swift in Sources */,
